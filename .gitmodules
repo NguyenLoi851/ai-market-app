@@ -1,0 +1,6 @@
+[submodule "ai-market-fe"]
+	path = ai-market-fe
+	url = https://github.com/NguyenLoi851/ai-market
+[submodule "payment"]
+	path = payment
+	url = https://github.com/NguyenLoi851/ai-market-payment
